@@ -9,13 +9,13 @@ Introduction
 
 ## Project Hub
 
-- [Project Hub](https://create.arduino.cc/projecthub)
+- [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
 ## Internet of Things
 
 > Connect your Arduino or Genuino Projects to the Internet and the World
 
-- [Internet of Things](https://create.arduino.cc/iot/)
+- [Arduino Internet of Things Homne](https://create.arduino.cc/iot/)
 
 ## Hackster
 
