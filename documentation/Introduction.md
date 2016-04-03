@@ -13,7 +13,9 @@ Introduction
 
 ## Internet of Things
 
-- [](https://create.arduino.cc/iot/)
+> Connect your Arduino or Genuino Projects to the Internet and the World
+
+- [Internet of Things](https://create.arduino.cc/iot/)
 
 ## Hackster
 
