@@ -17,6 +17,10 @@ Introduction
 
 - [Arduino Internet of Things Homne](https://create.arduino.cc/iot/)
 
+## Arduino Cloud
+
+> A simple tool to connect your Arduino boards to the internet and to each other. In order to use the tool you'll need to configure your environment.
+
 ## Hackster
 
 > Hackster is a community dedicated to learning hardware.
