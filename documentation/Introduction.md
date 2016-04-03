@@ -10,3 +10,9 @@ Introduction
 ## Project Hub
 
 - [Project Hub](https://create.arduino.cc/projecthub)
+
+## Hackster
+
+> Hackster is a community dedicated to learning hardware.
+
+- [Hackster Homepage](https://www.hackster.io/)
