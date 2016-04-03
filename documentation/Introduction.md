@@ -11,7 +11,7 @@ Introduction
 
 ## Project Hub
 
-> Our tutorial platform powered by hackster.io. 
+> Our tutorial platform powered by hackster.io
 
 - [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
