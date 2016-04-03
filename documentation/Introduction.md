@@ -11,6 +11,10 @@ Introduction
 
 - [Project Hub](https://create.arduino.cc/projecthub)
 
+## Internet of Things
+
+- [](https://create.arduino.cc/iot/)
+
 ## Hackster
 
 > Hackster is a community dedicated to learning hardware.
