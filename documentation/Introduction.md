@@ -7,6 +7,8 @@ Introduction
 
 > We are finally ready to release create.arduino.cc, the Arduino platform that will provide the community with a more modern and flexible tool to write code, a more integrated way of accessing content and learning while doing.
 
+- [Welcome Arduino Project Hub and Arduino IoT!](https://blog.arduino.cc/2016/04/03/welcome-arduino-project-hub-and-arduino-iot/)
+
 ## Project Hub
 
 - [Arduino Project Hub](https://create.arduino.cc/projecthub)
