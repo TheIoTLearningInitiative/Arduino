@@ -12,6 +12,7 @@ Introduction
 
 - [Arduino CC Homepage]()
 - [Arduino CC Github](https://github.com/arduino/)
+- [Arduino Certified](http://www.arduino.cc/en/ArduinoCertified/Products)
 
 ### Create
 
