@@ -44,7 +44,7 @@ Introduction
 > Wiring allows writing cross-platform software to control devices attached to a wide range of microcontroller boards to create all kinds of creative coding, interactive objects, spaces or physical experiences.
  
 - [Wiring Homepage](http://wiring.org.co/)
-- [](http://wiring.org.co/learning/basics/)
+- [Wiring Learning Basics](http://wiring.org.co/learning/basics/)
  
 ### Hackster
 
