@@ -52,6 +52,12 @@ Introduction
 - [Wiring Homepage](http://wiring.org.co/)
 - [Wiring Learning Basics](http://wiring.org.co/learning/basics/)
  
+### 
+
+> AVRlib is a library of easy-to-use C functions for a variety of common and uncommon tasks using AVR processors.
+
+- [Procyon AVRlib Homepage](http://www.procyonengineering.com/embedded/avr/avrlib/)
+
 ### Hackster
 
 > Hackster is a community dedicated to learning hardware.
