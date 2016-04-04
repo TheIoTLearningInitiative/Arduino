@@ -11,6 +11,7 @@ Introduction
 ## Arduino CC Projects
 
 - [Arduino CC Homepage]()
+- [Arduino Credits](https://www.arduino.cc/en/Main/Credits)
 - [Arduino CC Github](https://github.com/arduino/)
 - [Arduino Certified](http://www.arduino.cc/en/ArduinoCertified/Products)
 
