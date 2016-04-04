@@ -5,13 +5,13 @@ Introduction
 
 > Arduino is an open-source project founded by Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, and David Mellis.
 
-- [Arduino CC Homepage]()
-- [Arduino CC Github](https://github.com/arduino/)
-
 - [Collin's Lab: Arduino](https://www.youtube.com/watch?v=pnf8ojsK6S4)
 - [SparkFun Arduino Comparison Guide](https://www.youtube.com/watch?v=hjRSwBcLcSU)
 
 ## Arduino CC Projects
+
+- [Arduino CC Homepage]()
+- [Arduino CC Github](https://github.com/arduino/)
 
 ### Create
 
