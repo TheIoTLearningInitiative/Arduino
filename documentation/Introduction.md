@@ -41,9 +41,10 @@ Introduction
 
 > Wiring is an open-source programming framework for microcontrollers.
 
-> Wiring allows writing cross-platform software to control devices attached to a wide range of microcontroller boards to create all kinds of creative coding, interactive objects, spaces or physical experiences. 
+> Wiring allows writing cross-platform software to control devices attached to a wide range of microcontroller boards to create all kinds of creative coding, interactive objects, spaces or physical experiences.
  
-- [Wiring](http://wiring.org.co/)
+- [Wiring Homepage](http://wiring.org.co/)
+- [](http://wiring.org.co/learning/basics/)
  
 ### Hackster
 
