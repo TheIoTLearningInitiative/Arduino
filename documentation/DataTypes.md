@@ -1,5 +1,9 @@
 # Data Types
 
+## Void
+
+
+
 ## Int
 
 ```c
