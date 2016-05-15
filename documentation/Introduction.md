@@ -9,6 +9,22 @@ Introduction
 - [SparkFun Arduino Comparison Guide](https://www.youtube.com/watch?v=hjRSwBcLcSU)
 - [Top 5 Robot Arduino Projects](https://www.youtube.com/watch?v=2igPl-MTfTQ)
 
+## Arduino CC Learning
+
+- Getting Started
+- Tutorials
+- Reference
+- CTC Program
+- Playground
+
+### Arduino CC Learning Tutorials
+
+- Built-In Examples
+- Examples from Libraries
+- Tutorials on Arduino Project Hub
+- Foundations and More
+- Hacking
+
 ## Arduino CC Projects
 
 - [Arduino CC Homepage]()
@@ -70,11 +86,3 @@ Introduction
 
 - [Hackster Homepage](https://www.hackster.io/)
 
-
-## Arduino CC Learning Tutorials
-
-- Built-In Examples
-- Examples from Libraries
-- Tutorials on Arduino Project Hub
-- Foundations and More
-- Hacking
