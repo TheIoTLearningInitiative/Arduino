@@ -10,7 +10,7 @@
 
 ## Hexadecimal
 
-
+> In mathematics and computing, hexadecimal (also base 16, or hex) is a positional numeral system with a radix, or base, of 16. It uses sixteen distinct symbols, most often the symbols 0–9 to represent values zero to nine, and A, B, C, D, E, F (or alternatively a, b, c, d, e, f) to represent values ten to fifteen. Hexadecimal numerals are widely used by computer system designers and programmers. Several different notations are used to represent hexadecimal constants in computing languages; the prefix "0x" is widespread due to its use in Unix and C (and related operating systems and languages). [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
 
 ## Octal
 
