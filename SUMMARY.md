@@ -4,5 +4,5 @@
 * [Introduction](documentation/Introduction.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Structure](documentation/Structure.md)
-       * Control Structures
+       * [Control Structures](documentation/ControlStructures.md)
 
