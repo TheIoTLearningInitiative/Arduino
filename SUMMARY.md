@@ -4,7 +4,7 @@
 * [Prerequisites](Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
-   * Theory
+   * [Theory](documentation/Theory.md)
    * [Variables](documentation/Variables.md)
        * [Constants](documentation/Constants.md)
        * [Data Types](documentation/DataTypes.md)
