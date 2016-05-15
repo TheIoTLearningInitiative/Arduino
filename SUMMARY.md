@@ -8,4 +8,5 @@
        * [Further Syntax](documentation/FurtherSyntax.md)
        * [Arithmetic Operators](documentation/ArithmeticOperators.md)
        * [Comparison Operators](documentation/ComparisonOperators.md)
+       * Boolean Operators
 
