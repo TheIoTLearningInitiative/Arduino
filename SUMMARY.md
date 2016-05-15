@@ -11,4 +11,5 @@
        * [Boolean Operators](documentation/BooleanOperators.md)
        * [Pointer Access Operators](documentation/PointerAccessOperators.md)
        * [Bitwise Operators](documentation/BitwiseOperators.md)
+       * Compound Operators
 
