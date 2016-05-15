@@ -2,7 +2,17 @@
 
 ## Void
 
+```c
+void setup()
+{
 
+}
+
+void loop()
+{
+
+}
+```
 
 ## Int
 
