@@ -2,7 +2,7 @@
 
 ## If
 
-```sh
+```c
 int variableAlpha = 1;
   
 void setup() {
