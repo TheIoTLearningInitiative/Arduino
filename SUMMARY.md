@@ -6,5 +6,5 @@
    * [Structure](documentation/Structure.md)
        * [Control Structures](documentation/ControlStructures.md)
        * [Further Syntax](documentation/FurtherSyntax.md)
-       * Arithmetic Operators
+       * [Arithmetic Operators](documentation/ArithmeticOperators.md)
 
