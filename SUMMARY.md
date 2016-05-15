@@ -2,7 +2,6 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* [Simulators](documentation/Simulators.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Variables](documentation/Variables.md)
        * [Constants](documentation/Constants.md)
@@ -19,4 +18,5 @@
        * [Pointer Access Operators](documentation/PointerAccessOperators.md)
        * [Bitwise Operators](documentation/BitwiseOperators.md)
        * [Compound Operators](documentation/CompoundOperators.md)
+* [Simulators](documentation/Simulators.md)
 
