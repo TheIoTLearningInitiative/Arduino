@@ -4,6 +4,7 @@
 * [Prerequisites](Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
+   * Theory
    * [Variables](documentation/Variables.md)
        * [Constants](documentation/Constants.md)
        * [Data Types](documentation/DataTypes.md)
@@ -19,7 +20,6 @@
        * [Pointer Access Operators](documentation/PointerAccessOperators.md)
        * [Bitwise Operators](documentation/BitwiseOperators.md)
        * [Compound Operators](documentation/CompoundOperators.md)
-   * Theory
 * [Simulators](documentation/Simulators.md)
 * [Integrated Development Environment](IntegratedDevelopmentEnvironment.md)
 
