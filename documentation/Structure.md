@@ -1,6 +1,6 @@
 # Structure
 
-```sh
+```c
 void setup() {
 }
 
