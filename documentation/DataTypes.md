@@ -16,7 +16,7 @@ void loop()
 
 ## Boolean
 
-```sh
+```c
 boolean variableRunning = false;
 
 void setup() {
