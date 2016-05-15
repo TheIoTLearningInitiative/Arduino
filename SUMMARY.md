@@ -16,5 +16,5 @@
        * [Constants](documentation/Constants.md)
        * [Data Types](documentation/DataTypes.md)
        * [Conversions](documentation/Conversions.md)
-       * Variable Scope & Qualifiers
+       * [Variable Scope & Qualifiers](documentation/VariableScopeQualifiers.md)
 
