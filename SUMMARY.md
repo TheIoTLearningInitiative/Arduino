@@ -13,4 +13,5 @@
        * [Bitwise Operators](documentation/BitwiseOperators.md)
        * [Compound Operators](documentation/CompoundOperators.md)
    * [Variables](documentation/Variables.md)
+       * Constants
 
