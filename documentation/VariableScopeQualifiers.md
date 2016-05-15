@@ -1,0 +1,2 @@
+# Variable Scope & Qualifiers
+
