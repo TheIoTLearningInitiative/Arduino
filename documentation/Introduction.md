@@ -5,6 +5,8 @@ Introduction
 
 > Arduino is an open-source project founded by Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, and David Mellis.
 
+> Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language. Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer (e.g. Flash, Processing and MaxMSP).
+
 - [Collin's Lab: Arduino](https://www.youtube.com/watch?v=pnf8ojsK6S4)
 - [SparkFun Arduino Comparison Guide](https://www.youtube.com/watch?v=hjRSwBcLcSU)
 - [Top 5 Robot Arduino Projects](https://www.youtube.com/watch?v=2igPl-MTfTQ)
