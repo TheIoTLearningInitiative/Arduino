@@ -78,5 +78,3 @@ Introduction
 - Tutorials on Arduino Project Hub
 - Foundations and More
 - Hacking
-
-
