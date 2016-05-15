@@ -19,6 +19,7 @@
        * [Pointer Access Operators](documentation/PointerAccessOperators.md)
        * [Bitwise Operators](documentation/BitwiseOperators.md)
        * [Compound Operators](documentation/CompoundOperators.md)
+   * Theory
 * [Simulators](documentation/Simulators.md)
 * [Integrated Development Environment](IntegratedDevelopmentEnvironment.md)
 
