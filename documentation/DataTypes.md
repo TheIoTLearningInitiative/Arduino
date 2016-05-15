@@ -28,6 +28,11 @@ void loop() {
 }
 ```
 
+## Char
+
+> The ASCII (American Standard Code for Information Interchange) encoding dates to the 1960's. It is the standard way that text is encoded numerically [ASCII Chart](https://www.arduino.cc/en/Reference/ASCIIchart)
+
+
 ## Int
 
 ```c
