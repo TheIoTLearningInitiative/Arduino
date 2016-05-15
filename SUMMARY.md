@@ -14,5 +14,5 @@
        * [Compound Operators](documentation/CompoundOperators.md)
    * [Variables](documentation/Variables.md)
        * [Constants](documentation/Constants.md)
-       * Data Types
+       * [Data Types](documentation/DataTypes.md)
 
