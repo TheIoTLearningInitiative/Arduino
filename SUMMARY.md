@@ -7,5 +7,5 @@
        * [Control Structures](documentation/ControlStructures.md)
        * [Further Syntax](documentation/FurtherSyntax.md)
        * [Arithmetic Operators](documentation/ArithmeticOperators.md)
-       * [Comparison Operators](documentation/Comparison_Operators.md)
+       * [Comparison Operators](documentation/ComparisonOperators.md)
 
