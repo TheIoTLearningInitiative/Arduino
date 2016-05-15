@@ -3,5 +3,5 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
-   * Structure
+   * [Structure](documentation/Structure.md)
 
