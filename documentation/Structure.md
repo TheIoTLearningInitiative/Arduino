@@ -4,6 +4,7 @@
 
 ```c
 void setup() {
+
 }
 ```
 
@@ -18,6 +19,7 @@ Error compiling.
 
 ```sh
 void loop() {
+
 }
 ```
 
