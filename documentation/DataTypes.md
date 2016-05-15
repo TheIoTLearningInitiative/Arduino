@@ -14,6 +14,20 @@ void loop()
 }
 ```
 
+## Boolean
+
+```sh
+boolean variableRunning = false;
+
+void setup() {
+
+}
+
+void loop() {
+  variableRunning = true;
+}
+```
+
 ## Int
 
 ```c
