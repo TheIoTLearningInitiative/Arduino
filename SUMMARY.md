@@ -17,5 +17,5 @@
        * [Data Types](documentation/DataTypes.md)
        * [Conversions](documentation/Conversions.md)
        * [Variable Scope & Qualifiers](documentation/VariableScopeQualifiers.md)
-       * Utilities
+       * [Utilities](documentation/Utilities.md)
 
