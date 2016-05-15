@@ -25,7 +25,6 @@ void setup() {
 
 void loop() {
   variableRunning = true;
-  variableRunning = !variableRunning;
 }
 ```
 
