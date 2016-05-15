@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* Prerequisites
+* [Prerequisites](Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Variables](documentation/Variables.md)
