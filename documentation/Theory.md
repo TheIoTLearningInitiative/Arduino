@@ -1,5 +1,7 @@
 # Theory
 
+> Free materials for teaching the essential qualities of computers using little snippets of code in the browser. These materials are based on Nick Parlante's Stanford CS101 course. This page is currently being revised, but everything should work. Ultimately it will all be released as CC attribution-sharealike for easy re-use. Welcome CS4HS!
+
 - [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/index.html)
 - [IntroComputing.org](http://introcomputing.org/)
 
