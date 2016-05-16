@@ -18,13 +18,14 @@
 
 > The octal numeral system, or oct for short, is the base-8 number system, and uses the digits 0 to 7. Octal numerals can be made from binary numerals by grouping consecutive binary digits into groups of three (starting from the right). For example, the binary representation for decimal 74 is 1001010. Two zeroes can be added at the left: (00)1 001 010, corresponding the octal digits 1 1 2, yielding the octal representation 112. [Wikipedia](https://en.wikipedia.org/wiki/Octal)
 
+## Information Units
 
-## Bit
+### Bit
 
 > The bit is a basic unit of information in computing and digital communications.[1] A bit can have only one of two values, and may therefore be physically implemented with a two-state device. These values are most commonly represented as either a 0 or 1. The term bit is a portmanteau of binary digit. In information theory, the bit is equivalent to the unit shannon, named after Claude Shannon. [Wikipedia](https://en.wikipedia.org/wiki/Bit)
 
 > The two values can also be interpreted as logical values (true/false, yes/no), algebraic signs (+/−), activation states (on/off), or any other two-valued attribute.
 
-## Byte
+### Byte
 
 > The byte (/ˈbaɪt/) is a unit of digital information that most commonly consists of eight bits. Historically, the byte was the number of bits used to encode a single character of text in a computer[1][2] and for this reason it is the smallest addressable unit of memory in many computer architectures. The size of the byte has historically been hardware dependent and no definitive standards existed that mandated the size. [Wikipedia](https://en.wikipedia.org/wiki/Byte)
