@@ -19,7 +19,7 @@
 
 ## Bit
 
-> The bit is a basic unit of information in computing and digital communications.[1] A bit can have only one of two values, and may therefore be physically implemented with a two-state device. These values are most commonly represented as either a 0or1. The term bit is a portmanteau of binary digit. In information theory, the bit is equivalent to the unit shannon,[2] named after Claude Shannon. [Wikipedia](https://en.wikipedia.org/wiki/Bit)
+> The bit is a basic unit of information in computing and digital communications.[1] A bit can have only one of two values, and may therefore be physically implemented with a two-state device. These values are most commonly represented as either a 0 or 1. The term bit is a portmanteau of binary digit. In information theory, the bit is equivalent to the unit shannon,[2] named after Claude Shannon. [Wikipedia](https://en.wikipedia.org/wiki/Bit)
 
 ## Byte
 
