@@ -1,6 +1,6 @@
 # Theory
 
-- [](https://web.stanford.edu/class/cs101/index.html)
+- [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/index.html)
 
 ## Numeral Systems
 
