@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Prerequisites](Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
+* Getting Started
 * [Integrated Development Environment](IntegratedDevelopmentEnvironment.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Theory](documentation/Theory.md)
@@ -22,5 +23,4 @@
        * [Bitwise Operators](documentation/BitwiseOperators.md)
        * [Compound Operators](documentation/CompoundOperators.md)
 * [Simulators](documentation/Simulators.md)
-* Getting Started
 
