@@ -1,5 +1,7 @@
 # Theory
 
+- [](https://web.stanford.edu/class/cs101/index.html)
+
 ## Numeral Systems
 
 ### Decimal
