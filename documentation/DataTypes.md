@@ -1,6 +1,6 @@
 # Data Types
 
-- [](https://learn.sparkfun.com/tutorials/data-types-in-arduino?_ga=1.166689662.1512629796.1466829923)
+- [Sparkfun Data Types in Arduino](https://learn.sparkfun.com/tutorials/data-types-in-arduino?_ga=1.166689662.1512629796.1466829923)
 
 ## Void
 
