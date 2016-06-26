@@ -24,4 +24,5 @@
        * [Bitwise Operators](documentation/BitwiseOperators.md)
        * [Compound Operators](documentation/CompoundOperators.md)
 * [Simulators](documentation/Simulators.md)
+* Projects
 
