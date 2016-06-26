@@ -4,7 +4,7 @@
 * [Prerequisites](Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
-* [Integrated Development Environment](IntegratedDevelopmentEnvironment.md)
+* [Integrated Development Environment](documentation/IntegratedDevelopmentEnvironment.md)
    * [Code Bender](codeBender.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Theory](documentation/Theory.md)
