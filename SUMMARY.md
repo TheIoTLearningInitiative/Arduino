@@ -5,7 +5,7 @@
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
 * [Integrated Development Environment](IntegratedDevelopmentEnvironment.md)
-   * Code Bender
+   * [Code Bender](codeBender.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Theory](documentation/Theory.md)
    * [Variables](documentation/Variables.md)
