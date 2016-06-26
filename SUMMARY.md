@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* [Prerequisites](Prerequisites.md)
+* [Prerequisites](documentation/Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
 * [Integrated Development Environment](documentation/IntegratedDevelopmentEnvironment.md)
