@@ -26,4 +26,5 @@
 * [Simulators](documentation/Simulators.md)
 * Projects
    * [RFID](documentation/Rfid.md)
+   * Ethernet
 
