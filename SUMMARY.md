@@ -6,7 +6,7 @@
 * [Getting Started](documentation/GettingStarted.md)
 * [Integrated Development Environment](documentation/IntegratedDevelopmentEnvironment.md)
    * [Codebender](documentation/CodeBender.md)
-   * PlatformIO
+   * [PlatformIO](documentation/PlatformIO.md)
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Theory](documentation/Theory.md)
    * [Variables](documentation/Variables.md)
