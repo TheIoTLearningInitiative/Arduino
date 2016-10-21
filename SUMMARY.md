@@ -7,6 +7,7 @@
 * [Integrated Development Environment](documentation/IntegratedDevelopmentEnvironment.md)
    * [Codebender](documentation/CodeBender.md)
    * [PlatformIO](documentation/PlatformIO.md)
+   * Visuino
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Theory](documentation/Theory.md)
    * [Variables](documentation/Variables.md)
