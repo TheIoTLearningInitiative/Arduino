@@ -9,6 +9,7 @@
    * [PlatformIO](documentation/PlatformIO.md)
    * [Visuino](documentation/Visuino.md)
    * [1Sheeld](documentation/1Sheeld.md)
+   * Arduino Cloud
 * [Programming Language](documentation/ProgrammingLanguage.md)
    * [Theory](documentation/Theory.md)
    * [Variables](documentation/Variables.md)
