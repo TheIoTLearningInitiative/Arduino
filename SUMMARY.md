@@ -31,4 +31,5 @@
 * Projects
    * [RFID](documentation/Rfid.md)
    * [Ethernet](documentation/Ethernet.md)
+* Hardware
 
