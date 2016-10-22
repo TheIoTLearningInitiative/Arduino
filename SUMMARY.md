@@ -4,6 +4,7 @@
 * [Prerequisites](documentation/Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
+* Hardware
 * [Integrated Development Environment](documentation/IntegratedDevelopmentEnvironment.md)
    * [Codebender](documentation/CodeBender.md)
    * [PlatformIO](documentation/PlatformIO.md)
@@ -31,5 +32,4 @@
 * Projects
    * [RFID](documentation/Rfid.md)
    * [Ethernet](documentation/Ethernet.md)
-* Hardware
 
