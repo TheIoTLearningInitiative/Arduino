@@ -1,5 +1,4 @@
-Introduction
-==
+# Introduction
 
 > Arduino is common term for a software company, project, and user community that designs and manufactures computer open-source hardware, open-source software, and microcontroller-based kits for building digital devices and interactive objects that can sense and control physical devices. [Wikipedia](https://en.wikipedia.org/wiki/Arduino)
 
